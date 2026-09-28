@@ -1,0 +1,17 @@
+{
+  "name": "my_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^18.0.0",
+    "mongodb": "^6.8.0"
+  }
+}
