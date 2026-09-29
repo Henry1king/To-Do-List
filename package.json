@@ -2,7 +2,6 @@
   "name": "my_project",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
   "scripts": {
     "test": "node server.js"
   },
